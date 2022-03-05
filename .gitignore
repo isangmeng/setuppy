@@ -1,0 +1,15 @@
+#running
+/running/tags
+/running/src/tags
+/running/src/helloworld/*.trs
+/running/src/helloworld/*.pyc
+/running/src/helloworld/tags
+/running/src/helloworld/__pycache__
+#packaging
+/running/.eggs
+/running/*.egg
+/running/dist
+/running/src/*.egg-info
+/running/*wheel-store*
+/running/src/helloworld/version.py
+/running/src/helloworld/log
